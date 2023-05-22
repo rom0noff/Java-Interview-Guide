@@ -4,6 +4,7 @@ SOLID principles are object-oriented design concepts relevant to software develo
 ## Study Plan 📚
 |No|Design Pattern|Source Code|Material|Status|Interview|
 |--|--------------|-----------|--------|------|---------|
+<<<<<<< HEAD
 |1.| [Single Responsibility Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle/resource)|✅|✅|
 |2.| [Open-Closed Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle/resource)|✅|✅|
 |3.| [Liskov Substitution Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle/resource)|✅|✅|
@@ -17,4 +18,11 @@ Interview questions with [answers](https://github.com/Urunov/Interview-Preparati
 
 
 
+=======
+|1.| [Single Responsibility Principle](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Single%20Responsibility%20Principle)|[practice](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Single%20Responsibility%20Principle/practice)|[resource](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Single%20Responsibility%20Principle/resource)|✅|:hourglass:|
+|2.| [Open-Closed Principle](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Open-Closed%20Principle)|[practice](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Open-Closed%20Principle/practice)|[resource](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Open-Closed%20Principle/resource)|✅|:hourglass:|
+|3.| [Liskov Substitution Principle](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Liskov%20Substitution%20Principle)|[practice](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Liskov%20Substitution%20Principle/practice)|[resource](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Liskov%20Substitution%20Principle/resource)|✅|:hourglass:|
+|4.| [ Interface Segregation Principle](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Interface%20Segregation%20Principle)|[practice](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Interface%20Segregation%20Principle/practice)|[resource](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Interface%20Segregation%20Principle/resource)|✅|:hourglass:|
+|5.| [Dependency Inversion Principle](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Dependency%20Inversion%20Principle)|[practice](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Dependency%20Inversion%20Principle/practice)|[resource](https://github.com/rom0noff/Java-Interview-Guide/tree/master/SOLID/Dependency%20Inversion%20Principle/resource)|✅|:hourglass:|
+>>>>>>> 5b21a84c4b77f7e05771bc8af17c77da975983c1
 
